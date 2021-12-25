@@ -1,0 +1,5 @@
+com\tcscodebuffer\bookcatalog\service\BookService.class
+com\tcscodebuffer\bookcatalog\entity\Book.class
+com\tcscodebuffer\bookcatalog\BookcatalogServiceApplication.class
+com\tcscodebuffer\bookcatalog\controller\BookController.class
+com\tcscodebuffer\bookcatalog\repository\BookRepository.class
